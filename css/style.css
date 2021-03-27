@@ -1,5 +1,35 @@
 body {
-    color: deeppink;
+    color: white;
     text-align: center;
+<<<<<<< HEAD
     font-family: "Courier New", Courier, monospace;
+=======
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blueviolet;
+}
+
+.contenedor {
+    width: 80%;
+    margin: 0 auto;
+    border: 2px solid black;
+    padding: 3em;
+}
+
+.texto {
+    border: 3px solid yellowgreen;
+    font-weight: 700;
+    background-color: black;
+}
+
+h1 {
+    color: blue;
+    text-transform: capitalize;
+    background-color: #e1e1e1;
+    padding: 0.5em;
+    margin: 0;
+}
+
+.mi-nombre {
+    letter-spacing: 1.2px;
+>>>>>>> cabecera
 }
