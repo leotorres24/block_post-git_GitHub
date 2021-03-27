@@ -5,11 +5,12 @@ body {
     background-color: blueviolet;
 }
 
-.mi-contenido {
+.contenido {
     width: 80%;
     margin: 0 auto;
-    border: 2px solid rgb(230, 245, 19);
+    border: 2px solid red;
     padding: 3em;
+    margin-bottom: 1em;
 }
 
 .texto {
@@ -28,4 +29,21 @@ h1 {
 
 .mi-nombre {
     letter-spacing: 1.2px;
+}
+
+.cuadro {
+    width: 80%;
+    height: 2em;
+    margin: 0 auto;
+    border: 2px solid yellow;
+    padding: 3em;
+    background-color: violet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cuadro p {
+    font-size: 28px;
+    text-align: center;
 }
