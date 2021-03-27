@@ -13,12 +13,17 @@ body {
 }
 
 .texto {
-    border: 2px solid yellowgreen;
+    border: 3px solid yellowgreen;
     font-weight: 700;
+    background-color: black;
 }
 
 h1 {
+    color: blue;
     text-transform: capitalize;
+    background-color: #e1e1e1;
+    padding: 0.5em;
+    margin: 0;
 }
 
 .mi-nombre {
