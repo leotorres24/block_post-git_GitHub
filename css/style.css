@@ -1,9 +1,7 @@
 body {
     color: white;
     text-align: center;
-<<<<<<< HEAD
     font-family: "Courier New", Courier, monospace;
-=======
     font-family: Arial, Helvetica, sans-serif;
     background-color: blueviolet;
 }
@@ -31,5 +29,4 @@ h1 {
 
 .mi-nombre {
     letter-spacing: 1.2px;
->>>>>>> cabecera
 }
