@@ -1,5 +1,26 @@
 body {
-    color: deeppink;
+    color: white;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: blueviolet;
+}
+
+.contenedor {
+    width: 80%;
+    margin: 0 auto;
+    border: 2px solid black;
+    padding: 3em;
+}
+
+.texto {
+    border: 2px solid yellowgreen;
+    font-weight: 700;
+}
+
+h1 {
+    text-transform: capitalize;
+}
+
+.mi-nombre {
+    letter-spacing: 1.2px;
 }
